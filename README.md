@@ -1,4 +1,4 @@
-<h>Next level 👩‍🏫📚</h1>
+<h1>Next level 👩‍🏫📚</h1>
 in this web we can register or create register an account, view lessons and add review and comment and interact with teachers. 
 also teachers can create lessons with an unlimited number of sections Each section contains an unlimited number of different lesson types videos, images, PDFs..Each section can contain exams with multiple questions tested(quiz).
 
@@ -9,11 +9,11 @@ psw : admin2001
 <h1>made with👩‍💻 </h1>
 <ul>
   <li>Php Data Object PDO</li>
-  <il>SQL</il>
-  <il>Bootstrap 4</il>
-  <il>JavaScript</il>
-  <il> Ajax</il>
-  <il>JQuery</il>
+  <li>SQL</li>
+  <li>Bootstrap 4</li>
+  <li>JavaScript</li>
+  <li> Ajax</li>
+  <li>JQuery</li>
 </ul>
 <h1>different types of users</h1>
 
