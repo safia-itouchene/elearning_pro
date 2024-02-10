@@ -1,4 +1,4 @@
-<h1>Next level 👩‍🏫📚</h1>
+<h1>Next level 👩‍🏫</h1>
 in this web we can register or create register an account, view lessons and add review and comment and interact with teachers. 
 also teachers can create lessons with an unlimited number of sections Each section contains an unlimited number of different lesson types videos, images, PDFs..Each section can contain exams with multiple questions tested(quiz).
 
