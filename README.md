@@ -1,4 +1,4 @@
-<h>Next level</h1>
+<h>Next level 👩‍🏫📚</h1>
 in this web we can register or create register an account, view lessons and add review and comment and interact with teachers. 
 also teachers can create lessons with an unlimited number of sections Each section contains an unlimited number of different lesson types videos, images, PDFs..Each section can contain exams with multiple questions tested(quiz).
 
@@ -6,6 +6,15 @@ also teachers can create lessons with an unlimited number of sections Each secti
 email : admin@example.com
 psw : admin2001
 
+<h1>made with👩‍💻 </h1>
+<ul>
+  <li>Php Data Object PDO</li>
+  <il>SQL</il>
+  <il>Bootstrap 4</il>
+  <il>JavaScript</il>
+  <il> Ajax</il>
+  <il>JQuery</il>
+</ul>
 <h1>different types of users</h1>
 
 <b>Visitor:</b> This is an individual who is discovering the site and knows what it is for at this stage.
@@ -31,6 +40,7 @@ documentation) to the administrator to become a teacher at this site.
 ![e-3](https://github.com/safia-itouchene/elearning_pro/assets/115651730/a3d0066e-76c0-450b-ab72-4ad1667e5adf)
 
 <h2>Search</h2>
+
 ![e-4](https://github.com/safia-itouchene/elearning_pro/assets/115651730/cbacad9c-9e34-4d39-be37-e2f3bf618288)
 
 <h2>Teacher profile</h2>
@@ -60,6 +70,7 @@ documentation) to the administrator to become a teacher at this site.
 ![e-12](https://github.com/safia-itouchene/elearning_pro/assets/115651730/2e71b810-9272-482d-a359-5b646cfa44f7)
 
 <h2>Bloger page</h2>
+
 ![e-13](https://github.com/safia-itouchene/elearning_pro/assets/115651730/b5e144d2-6d3d-4c30-ba72-72dfb2673cae)
 
 
