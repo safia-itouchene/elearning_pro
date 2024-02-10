@@ -43,7 +43,8 @@ documentation) to the administrator to become a teacher at this site.
 
 ![e-6](https://github.com/safia-itouchene/elearning_pro/assets/115651730/b9dc1368-bbf5-4a49-98c5-b31725d82134)
 
-![e-7](https://github.com/safia-itouchene/elearning_pro/assets/115651730/3b5fdde3-8315-47d4-ac60-6a8f47d57ef8)
+![e-78](https://github.com/safia-itouchene/elearning_pro/assets/115651730/fc4d0ec6-0209-4acf-9c9b-96f2a949249a)
+
 
 ![e-8](https://github.com/safia-itouchene/elearning_pro/assets/115651730/cc9c32f4-bbbc-424a-96ec-61e79362b4f2)
 
