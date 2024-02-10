@@ -30,33 +30,37 @@ documentation) to the administrator to become a teacher at this site.
 
 ![e-3](https://github.com/safia-itouchene/elearning_pro/assets/115651730/a3d0066e-76c0-450b-ab72-4ad1667e5adf)
 
-
+<h2>Search</h2>
 ![e-4](https://github.com/safia-itouchene/elearning_pro/assets/115651730/cbacad9c-9e34-4d39-be37-e2f3bf618288)
 
-<h2>prfile</h2>
+<h2>Teacher profile</h2>
 
 ![e-5](https://github.com/safia-itouchene/elearning_pro/assets/115651730/c133731e-fda0-4c1e-9f70-870d6b01e1f4)
 
-
-<h2>course page</h2>
-
+<h2>Course page</h2>
 
 ![e-6](https://github.com/safia-itouchene/elearning_pro/assets/115651730/b9dc1368-bbf5-4a49-98c5-b31725d82134)
 
 ![e-78](https://github.com/safia-itouchene/elearning_pro/assets/115651730/fc4d0ec6-0209-4acf-9c9b-96f2a949249a)
 
+<h2>Quize</h2>
 
 ![e-8](https://github.com/safia-itouchene/elearning_pro/assets/115651730/cc9c32f4-bbbc-424a-96ec-61e79362b4f2)
 
 ![e-9](https://github.com/safia-itouchene/elearning_pro/assets/115651730/9f964be8-ce01-4a1b-8c4d-3e0561c59d7d)
 
+<h2>Teacher panel</h2>
+
 ![e-10](https://github.com/safia-itouchene/elearning_pro/assets/115651730/398c9c7f-c96c-4c32-a20d-b9a4e60d794b)
 
 ![e-11](https://github.com/safia-itouchene/elearning_pro/assets/115651730/6dbaedbe-9783-4f2c-832c-334cda2967aa)
 
+<h2>Chat</h2>
+
 ![e-12](https://github.com/safia-itouchene/elearning_pro/assets/115651730/2e71b810-9272-482d-a359-5b646cfa44f7)
 
-
+<h2>Bloger page</h2>
+![e-13](https://github.com/safia-itouchene/elearning_pro/assets/115651730/b5e144d2-6d3d-4c30-ba72-72dfb2673cae)
 
 
 
